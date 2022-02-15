@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 The new step for github
 
 This line is for understanding push
+
+This line is for pushing a branch to GitHub
